@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- 1. GitHub ユーザー名を変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Non2d" />

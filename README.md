@@ -29,7 +29,7 @@
 </div>
 
 Actually, I have modeled, rigged, physically simulated, and animated a 3dcg character with Blender.
-https://github.com/user-attachments/assets/b28b2b11-d811-4aef-b45b-77bbd5c37622
+<iframe src="https://giphy.com/embed/fCiWpncuapC3Pr9XKB" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fCiWpncuapC3Pr9XKB">via GIPHY</a></p>
 
 
 <!--

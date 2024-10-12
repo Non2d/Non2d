@@ -19,7 +19,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=unreal,cpp,unity,cs,blender,ai,html,css,ts,js,react,next,figma,py,pytorch,fastapi,go,docker,arduino,processing,p5js,nginx,postman," />
 <br>
 
-Actually, I have modeled, rigged, physically simulated, and animated a 3dcg character with Blender.
+Actually, I have modeled, rigged, physically simulated, shaded, and animated a 3dcg character with Blender.
 
 ![Kei_Walking_01](https://github.com/user-attachments/assets/c124e281-4470-45ed-a050-b06ffc9c01ef)
 

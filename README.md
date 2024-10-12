@@ -19,6 +19,10 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=unreal,cpp,unity,cs,blender,ai,html,css,ts,js,react,next,figma,py,pytorch,fastapi,go,docker,arduino,processing,p5js,nginx,postman," />
 <br>
 
+Actually, I have modeled, rigged, physically simulated, and animated a 3dcg character with Blender.
+
+![Kei_Walking_01](https://github.com/user-attachments/assets/c124e281-4470-45ed-a050-b06ffc9c01ef)
+
 
 <!-- 4. GitHub ユーザー名を変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
@@ -27,10 +31,6 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Non2d&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non2d&theme=vue-dark&layout=compact" />
 </div>
-
-Actually, I have modeled, rigged, physically simulated, and animated a 3dcg character with Blender.
-<iframe src="https://giphy.com/embed/fCiWpncuapC3Pr9XKB" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fCiWpncuapC3Pr9XKB">via GIPHY</a></p>
-
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

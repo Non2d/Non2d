@@ -28,6 +28,9 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non2d&theme=vue-dark&layout=compact" />
 </div>
 
+Actually, I have modeled, rigged, physically simulated, and animated a 3dcg character with Blender.
+https://github.com/user-attachments/assets/b28b2b11-d811-4aef-b45b-77bbd5c37622
+
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -16,7 +16,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=unreal,cpp,unity,cs,blender,ai,html,css,ts,js,react,next,figma,py,pytorch,fastapi,go,docker,arduino,processing,p5js,nginx,postman," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=unreal,cpp,unity,cs,blender,ai,html,css,ts,js,react,next,figma,py,pytorch,fastapi,go,docker,arduino,processing,p5js,nginx,postman,swift" />
 <br>
 
 Actually, I have modeled, rigged, physically simulated, shaded, and animated a 3dcg character with Blender.
